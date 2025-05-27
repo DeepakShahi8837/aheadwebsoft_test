@@ -6,6 +6,7 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  install tailwind css 
 
 ## Expanding the ESLint configuration
 
@@ -25,3 +26,28 @@ City tab filtering is static — not dynamically backed by the API.
 Lat/long values in the response are not sufficient to implement accurate geolocation-based filters.
 
 Search is frontend-only, applied on the full dataset retrieved from the backend.
+
+Tech Stack
+React.js – Component-based UI
+
+Tailwind CSS – Utility-first CSS styling
+
+Axios – API requests
+
+React Icons – Icon set
+
+REST API – ThunderScript Properties API
+
+ Features
+🔍 Search properties by keyword, type, and price
+
+🏢 View featured projects across cities like Dubai, Abu Dhabi, Sharjah, and more
+
+💖 Like/Unlike properties
+
+📸 Navigate through multiple property images
+
+👥 Dealer info and verification status
+
+🔄 Responsive UI with mobile-friendly design
+
